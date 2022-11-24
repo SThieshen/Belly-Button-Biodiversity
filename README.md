@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-#Description
+## Description
 
 The objective of this project is to build an interactive dashboard to explore the Belly Button Diversity dataset which catalogs the microbes colonizing human navels.
 
